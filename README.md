@@ -13,7 +13,7 @@ Kho tài liệu học tập môn **Hệ thống mạng Wireless** tại IUH.
 | `04_Tai_lieu_tieng_Anh/` | Tài liệu tiếng Anh/bản dịch |
 | `05_File_goc/` | File nén và tài liệu gốc |
 
-Repository hiện có bài giảng chương 1–7, tài liệu tổng hợp môn, giáo trình *Mobile Wireless Communications*, tài liệu ôn tập và bản tiếng Việt của giáo trình. fileciteturn8file0L2-L2
+Repository hiện có bài giảng chương 1–7, tài liệu tổng hợp môn, giáo trình *Mobile Wireless Communications*, tài liệu ôn tập và bản tiếng Việt của giáo trình. 
 
 ## Mục đích
 
